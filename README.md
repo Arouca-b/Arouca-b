@@ -2,7 +2,7 @@
 
 <p align="left"> 
   ***** Arouca, tenho ** anos e atualmente sou estudante de Ciência da computação na UESC, <strong>estou apenas me familiarizando com o GitHub</strong>.<br>
-  Sou formado em Técnico em Informática pelo IFBA - Campus Ilhéus e trabalho em uma empresa de telecomunicação .
+  Sou formado em Técnico em Informática pelo IFBA
 </p>
 
 <p align="left">
