@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  ***** Arouca, tenho ** anos e atualmente sou estudante de Ciência da computação na UESC, <strong>estou apenas me familiarizando com o GitHub</strong>.<br>
+  ***** Arouca, sou estudante de Ciência da computação na UESC, <strong>estou apenas me familiarizando com o GitHub</strong>.<br>
   Sou formado em Técnico em Informática pelo IFBA
 </p>
 
