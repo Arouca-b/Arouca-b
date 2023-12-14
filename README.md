@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, C, C++</strong>
+   Linguagens: <strong>C</strong>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 se quiser me ajudar, pode entrar em contato comigo: ⤵️
+   se quiser me ajudar, pode entrar em contato comigo: ⤵️
 </p>
 
 <p align="left">
